@@ -1,0 +1,5 @@
+wikipedia@1.4.0
+speechrecognition@3.14.3
+openai@1.82.0
+pywin32@310
+PyAudio@0.2.14
