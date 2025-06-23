@@ -2,5 +2,6 @@ wikipedia@1.4.0
 speechrecognition@3.14.3
 pywin32@310
 PyAudio@0.2.14
-markdown2
-google-genai
+markdown2@2.5.3
+google-genai@1.21.1
+pywhatkit@5.4
